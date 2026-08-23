@@ -1,4 +1,5 @@
 // Steven Nguyen - 8/23/26
+// This application prints "Hello, World!" and the numbers 0 to 9
 
 console.log("Hello world!");
 
